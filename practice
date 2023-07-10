@@ -1,5 +1,5 @@
-#program to find sum 
+#program to find multiplication
 a = 43
 b = 34
 
-print()
+print(a*b)
